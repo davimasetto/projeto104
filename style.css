@@ -1,0 +1,17 @@
+body{
+    color:  white;
+    background-color: pink;
+    text-align: center;
+}
+
+hr{
+    border-width: 3px;
+    border-style: solid;
+    border-color: green;
+
+}
+
+#captura{
+    width: 360px;
+    height: 250px;
+}
